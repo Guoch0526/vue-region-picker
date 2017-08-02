@@ -1,0 +1,28 @@
+{
+  "name": "vue-region-picker",
+  "version": "1.0.0",
+  "description": "A vue provincial city three linkage selection components by vue-animal-scroll",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Guoch0526/vue-region-picker.git"
+  },
+  "keywords": [
+    "vue",
+    "animal",
+    "scroll",
+    "picker"
+  ],
+  "author": "Guoch",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Guoch0526/vue-region-picker/issues"
+  },
+  "homepage": "https://github.com/Guoch0526/vue-region-picker#readme",
+  "devDependencies": {
+    "anima-vue-scroller": "^1.1.9"
+  }
+}
